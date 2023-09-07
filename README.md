@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AMS2023Dev
+- 👀 I’m interested in Android Programming
+- 🌱 I’m currently learning Kotlin programming language
+- 💞️ I’m looking to collaborate on Android application development
+- 📫 You can contact me with Telegram: @AMS_Dev
